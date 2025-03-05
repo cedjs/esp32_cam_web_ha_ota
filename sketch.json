@@ -1,0 +1,38 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:esp32cam:CPUFreq=240,FlashFreq=80,FlashMode=qio,PartitionScheme=huge_app,DebugLevel=none,EraseFlash=none",
+    "name": "AI Thinker ESP32-CAM",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_mqtt_password",
+      "value": ""
+    },
+    {
+      "name": "SECRET_mqtt_server",
+      "value": ""
+    },
+    {
+      "name": "SECRET_mqtt_user",
+      "value": ""
+    },
+    {
+      "name": "SECRET_web_password",
+      "value": ""
+    },
+    {
+      "name": "SECRET_web_username",
+      "value": ""
+    },
+    {
+      "name": "SECRET_wifi_password",
+      "value": ""
+    },
+    {
+      "name": "SECRET_wifi_ssid",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}

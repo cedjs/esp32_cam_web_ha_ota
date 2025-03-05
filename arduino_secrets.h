@@ -1,0 +1,7 @@
+#define SECRET_mqtt_password ""
+#define SECRET_mqtt_server ""
+#define SECRET_mqtt_user ""
+#define SECRET_web_password ""
+#define SECRET_web_username ""
+#define SECRET_wifi_password ""
+#define SECRET_wifi_ssid ""
